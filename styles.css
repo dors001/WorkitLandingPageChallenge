@@ -1,0 +1,41 @@
+:root {
+    --color-primary: #24053e;
+    --color-secondary: #FCF8FF;
+    --color-accent: #44FFA1;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.8rem;
+    line-height: 3.2;
+}
+
+h1, h2, h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 8rem;
+    line-height: 8;
+}
+
+h2 {
+    font-size: 5.6rem;
+    line-height: 6.4;
+}
+
+h3 {
+    font-size: 3.2rem;
+    line-height: 4;
+}
+
+/* Buttons */
+
+/* .btn--primary {
+
+} */
