@@ -38,9 +38,8 @@ h3 {
 /* Blocks */
 
 .block {
-    max-width: 1140px;
     width: 100%;
-    height: 30vh;
+    height: 100vh;
 }
 
 .block--primary {
@@ -49,6 +48,22 @@ h3 {
 
 .block--secondary {
     background: var(--color-secondary);
+}
+
+.block__rounded {
+    clip-path: ellipse(85% 50% at 50% 40%);
+}
+
+@media screen and (min-width: 768px) {    
+    .block__rounded {
+        clip-path: ellipse(85% 85% at 50% -10%);
+        padding-bottom: 15rem;
+    }
+
+    .block--secondary__rounded {
+        clip-path: ellipse(85% 85% at 50% -10%);
+        padding-bottom: 15rem;
+    }
 }
 
 /* Buttons */
