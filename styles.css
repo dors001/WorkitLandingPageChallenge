@@ -99,3 +99,32 @@ h3 {
 .btn--secondary:hover {
     color: var(--color-accent);
 }
+
+/* Navigation */
+
+.nav {
+    display: flex;    
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.nav--block {
+    margin: 0;
+    padding: 4rem 1.6rem;
+}
+
+@media screen and (min-width: 768px) {
+    .nav {
+        max-width: 70%;
+        margin: 5rem auto;
+    }
+}
+
+/* Icons */
+
+.icon--container {
+    margin: auto 0;
+    padding-top: 0.5rem;
+}
