@@ -371,3 +371,30 @@ h3 {
         max-height: 47.7rem;
     }
 }
+
+/* Footer */
+
+footer.container.block {
+    max-width: 116px;
+}
+
+footer>.icon--container, .socials--container {
+    margin: 4rem auto;
+}
+
+.socials--container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.socials__icon {
+    fill: #584D62;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    transition: all .2s ease-in;
+}
+
+.socials__icon:hover {
+    fill: var(--color-primary);
+}
