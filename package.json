@@ -1,8 +1,5 @@
 {
   "dependencies": {
     "normalize.css": "^8.0.1"
-  },
-  "devDependencies": {
-    "hugo-installer": "^4.0.1"
   }
 }

@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Workit Landing Page Solution](https://github.com/dors001/WorkitLandingPageChallenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Workit Landing Page Site](https://workit-landing-page-challenge.vercel.app/)
 
 ## My process
 
@@ -45,59 +45,33 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project tought me great basics for CSS and HTML, especially in how to manage my development work and understanding the styling tools at my disposal.
 
-To see how you can add code snippets, see below:
+Using components make the development process much easier, as a novice front-end dev it change my perspective completly and made developing a much more of a high quality, enjoyable process.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I made sure to use only the basics of HTML and CSS with incorporating only a couple of sections that use grid and flexbox, i took the project in the goal in mind of creating a strong foundation of the basics of the HTML and CSS languges.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This project was extreamly enjoyable and educating!
+This project is a fantastic way to start your journey into Fron-End development.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
+From this point i will solidify my basics in JavaScript while continue to sharpen my HTML and CSS skills so in the future i could go into React with more confidence.
+*
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Code With Mosh Hamedani](https://codewithmosh.teachable.com) - I learned HTML and CSS basics from Mosh Hamedani. He has a wonderful way in delivering the subjects that make it accessible to anyone that's starting out. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@dors001](https://www.frontendmentor.io/profile/dors001)
+- Email - [ds.design.dev@gmail.com](mailto:ds.design.dev@gmail.com)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Again i need to give my thanks to Mosh Hamedani's teachings that keeps educating developers around the world.
